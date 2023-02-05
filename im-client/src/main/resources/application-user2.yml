@@ -1,0 +1,7 @@
+server:
+  port: 7002
+
+im:
+  user:
+    id: 1002
+    name: mengban1002

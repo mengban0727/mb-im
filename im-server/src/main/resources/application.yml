@@ -1,0 +1,11 @@
+server:
+  port: 8000
+im:
+  server:
+    port: 8800
+  zk:
+    root: /im
+    addr: 127.0.0.1:2181
+  route:
+    logout:
+      url: http://127.0.0.1:9000/logout

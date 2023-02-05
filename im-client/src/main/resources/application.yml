@@ -1,0 +1,11 @@
+server:
+  port: 7000
+
+im:
+  user:
+    id: 1000
+    name: mengban
+  route:
+    loginUrl: http://127.0.0.1:9000/login
+    chatUrl: http://127.0.0.1:9000/chat
+    logoutUrl: http://127.0.0.1:9000/logout
