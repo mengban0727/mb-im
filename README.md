@@ -23,7 +23,7 @@ docker run -d -p 2181:2181 --name=zookeeper zookeeper
 ```
 
 ```java
-docker run -d -p 6379:6379 --name=redis redis:latest
+docker run -d -p 6379:6379 --name=redis redis
 ```
 
 2.编译、打包
